@@ -1,0 +1,30 @@
+2021-01-10 14:26:01,028 INFO ParserCbr.py Запущен парсинг сайта https://www.cbr.ru/currency_base/daily/
+2021-01-10 14:26:01,177 INFO ParserCbr.py Ответ от сайта https://www.cbr.ru/currency_base/daily/ успешно получен
+2021-01-10 14:26:01,427 INFO ParserCbr.py Ответ от сайта https://ru.currencyrate.today/different-currencies успешно получен
+2021-01-10 14:26:01,488 INFO ParserCbr.py Словарь с результами сохранен
+2021-01-10 14:26:01,489 INFO ParserCbr.py data_file.json сохранен в /Users/yaroslav/tests/parser_cbr
+2021-01-10 14:26:01,489 INFO ParserCbr.py Завершен парсинг сайта
+2021-01-10 14:26:54,444 INFO ParserCbr.py Запущен парсинг сайта https://www.cbr.ru/currency_base/daily/
+2021-01-10 14:26:54,610 INFO ParserCbr.py Ответ от сайта https://www.cbr.ru/currency_base/daily/ успешно получен
+2021-01-10 14:26:54,878 INFO ParserCbr.py Ответ от сайта https://ru.currencyrate.today/different-currencies успешно получен
+2021-01-10 14:26:54,956 INFO ParserCbr.py Словарь с результами сохранен
+2021-01-10 14:26:54,957 INFO ParserCbr.py data_file.json сохранен в /Users/yaroslav/tests/parser_cbr
+2021-01-10 14:26:54,957 INFO ParserCbr.py Завершен парсинг сайта
+2021-01-10 14:28:42,347 INFO ParserCbr.py Запущен парсинг сайта https://www.cbr.ru/currency_base/daily/
+2021-01-10 14:28:42,443 INFO ParserCbr.py Ответ от сайта https://www.cbr.ru/currency_base/daily/ успешно получен
+2021-01-10 14:28:42,694 INFO ParserCbr.py Ответ от сайта https://ru.currencyrate.today/different-currencies успешно получен
+2021-01-10 14:28:42,754 INFO ParserCbr.py Словарь с результами сохранен
+2021-01-10 14:28:42,755 INFO ParserCbr.py data_file.json сохранен в /Users/yaroslav/tests/parser_cbr
+2021-01-10 14:28:42,755 INFO ParserCbr.py Завершен парсинг сайта
+2021-01-10 14:29:25,359 INFO ParserCbr.py Запущен парсинг сайта https://www.cbr.ru/currency_base/daily/
+2021-01-10 14:29:25,522 INFO ParserCbr.py Ответ от сайта https://www.cbr.ru/currency_base/daily/ успешно получен
+2021-01-10 14:29:25,784 INFO ParserCbr.py Ответ от сайта https://ru.currencyrate.today/different-currencies успешно получен
+2021-01-10 14:29:25,857 INFO ParserCbr.py Словарь с результами сохранен
+2021-01-10 14:29:25,858 INFO ParserCbr.py data_file.json сохранен в /Users/yaroslav/tests/parser_cbr
+2021-01-10 14:29:25,858 INFO ParserCbr.py Завершен парсинг сайта
+2021-01-10 14:33:52,867 INFO ParserCbr.py Запущен парсинг сайта https://www.cbr.ru/currency_base/daily/
+2021-01-10 14:33:53,039 INFO ParserCbr.py Ответ от сайта https://www.cbr.ru/currency_base/daily/ успешно получен
+2021-01-10 14:33:53,301 INFO ParserCbr.py Ответ от сайта https://ru.currencyrate.today/different-currencies успешно получен
+2021-01-10 14:33:53,360 INFO ParserCbr.py Словарь с результами сохранен
+2021-01-10 14:33:53,361 INFO ParserCbr.py data_file.json сохранен в /Users/yaroslav/tests/parser_cbr
+2021-01-10 14:33:53,361 INFO ParserCbr.py Завершен парсинг сайта
